@@ -16,27 +16,50 @@ We trained our model on the OpenSubtitles dataset by Tiedemann . This dataset co
 movie conversations in XML format.
 
 #Conversation​:
-Q: Hello
-A: How are you today?
-Q: What is your name?
-A: Bedevere, my liege.
-Q: What is your favourite number?
-A: 105-353.
-Q: What do you like?
-A: I do n't know.
-Q: You look sad.
-A: I was just having a good one.
-Q: You are funny.
-A: Me, too, i'm sorry.
-Q: No, No. It's fine
-A: There are no charges, though.
-Q: What is your favourite sports?
-A: To seek the grail.
-Q: Are you a poet?
-A: No, i'm divorced.
-Q: What is your father's name?
-A: `` dad.''
-Q: Are you an orphan?
-A: Uh huh.
-Q: When did your father die?
-A: Last night.
+> Q: Hello
+
+> A: How are you today?
+
+> Q: What is your name?
+
+> A: Bedevere, my liege.
+
+> Q: What is your favourite number?
+
+> A: 105-353.
+
+> Q: What do you like?
+
+> A: I do n't know.
+
+> Q: You look sad.
+
+> A: I was just having a good one.
+
+> Q: You are funny.
+
+> A: Me, too, i'm sorry.
+
+> Q: No, No. It's fine
+
+> A: There are no charges, though.
+
+> Q: What is your favourite sports?
+
+> A: To seek the grail.
+
+> Q: Are you a poet?
+
+> A: No, i'm divorced.
+
+> Q: What is your father's name?
+
+> A: `` dad.''
+
+> Q: Are you an orphan?
+
+> A: Uh huh.
+
+> Q: When did your father die?
+
+> A: Last night.
